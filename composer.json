@@ -1,0 +1,19 @@
+{
+    "name": "jdz/jizy-logger",
+    "type": "library",
+    "description": "A simple JS logger library",
+    "keywords": [
+        "JDZ",
+        "Logger"
+    ],
+    "homepage": "https://jdz.joffreydemetz.com/jizylogger",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joffrey Demetz",
+            "email": "joffrey.demetz@gmail.com",
+            "homepage": "https://joffreydemetz.com",
+            "role": "Lead"
+        }
+    ]
+}
