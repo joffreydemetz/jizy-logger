@@ -1,7 +1,7 @@
 {
     "name": "jdz/jizy-logger",
     "type": "library",
-    "description": "A simple JS logger library",
+    "description": "A simple JS logger proxy",
     "keywords": [
         "JDZ",
         "Logger"
