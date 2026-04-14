@@ -1,6 +1,6 @@
 {
   "name": "jizy-logger",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "browser": "dist/js/jizy-logger.min.js",
   "main": "lib/index.js",
   "type": "module",
@@ -25,8 +25,8 @@
   ],
   "author": "Joffrey Demetz <joffrey.demetz@gmail.com> (https://joffreydemetz.com/)",
   "license": "MIT",
-  "description": "A simple JS logger proxy.",
-  "dependencies": {
-    "jizy-packer": "^2.1.0"
+  "description": "A simple JS logger.",
+  "devDependencies": {
+    "jizy-packer": "^2.1.44"
   }
 }
