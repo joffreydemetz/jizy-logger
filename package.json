@@ -1,7 +1,6 @@
 {
   "name": "jizy-logger",
-  "version": "2.1.5",
-  "browser": "dist/js/jizy-logger.min.js",
+  "version": "2.1.6",
   "main": "lib/index.js",
   "type": "module",
   "files": [
