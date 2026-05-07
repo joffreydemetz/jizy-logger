@@ -5,12 +5,9 @@
   "main": "lib/index.js",
   "type": "module",
   "files": [
-    "dist/*",
-    "lib/*"
+    "lib/index.js"
   ],
   "scripts": {
-    "jpack:export": "node ./cli/jpack.js --action build --name perso",
-    "jpack:dist": "node ./cli/jpack.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "jest": {
@@ -35,7 +32,6 @@
   "description": "A simple JS logger.",
   "homepage": "https://jizy.joffreydemetz.com/logger",
   "devDependencies": {
-    "jest": "^29.7.0",
-    "jizy-packer": "^2.1.44"
+    "jest": "^29.7.0"
   }
 }

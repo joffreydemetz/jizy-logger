@@ -1,3 +1,0 @@
-import jLogger from '{{PREFIX}}lib/js/logger.js';
-
-export default jLogger;
